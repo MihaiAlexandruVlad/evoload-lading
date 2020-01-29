@@ -1,0 +1,412 @@
+
+@media (min-width: 1920px) {
+.work-right-text {
+  padding: 150px 150px;
+}
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+#single-product ul.nav.nav-tabs {
+    padding: 3% 11% 0;
+    text-align: center;
+}
+.login-form {
+    margin: 0px 30px;
+}
+.section-2 > h3{
+    font-size: 24px;
+}
+.slide-title {
+    font-size: 38px;
+    line-height: 30px;
+}
+.single-feature > h4 {
+    font-size: 16px;
+}
+
+}
+
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.main-menu ul.navbar-nav li {
+    padding: 0 7px;
+}
+.main-menu ul.navbar-nav li a {
+    font-size: 13px;
+}
+.menu-toggle {
+    top: 27%;
+}
+.top-content .slide-content {
+    margin-top: 130px;
+}
+.slider-area-2 .top-content .slide-content {
+    margin-top: 20px;
+}
+.slide-title {
+    font-size: 38px;
+    line-height: 42px;
+}
+.slider-area-2 .slide-title {
+    font-size: 28px;
+    line-height: 32px;
+}
+
+.slide-btn {
+    margin: 20px 10px 0 0;
+    padding: 12px 10px;
+    width: 150px;
+    font-size: 13px;
+}
+.single-services > h4 {
+    font-size: 17px;
+}
+.video-features.section-2 {
+    margin-bottom: 30px;
+}
+.feature-1 .feature-images {
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+.feature-2 .feature-images {
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.faq-details {
+    margin-top: 30px;
+}
+.section-2 > h3 {
+    font-size: 24px;
+}
+.single-icon i {
+    margin-right: 10px;
+}
+.single-icon p {
+    font-size: 13px;
+}
+.sign-icon ul li a {
+    padding: 5px 8px;
+}
+.home-3 .subs-form button#submit {
+    font-size: 14px;
+}
+.table-list {
+    margin-bottom: 30px;
+}
+.home-page-8 .slide-title {
+    font-size: 34px;
+    line-height: 40px;
+}
+
+
+
+    
+    
+}
+
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.container {width:300px}
+.logo a {
+    padding: 0;
+}
+.header-area.default-header {
+    height: 70px;
+}
+.default-header .menu-toggle {
+    display: block;
+}
+.menu-btn .icon-bar {
+    background-color: #444;
+}
+.menu-toggle + .navbar-collapse {
+    margin-right: 0;
+    margin-top: 70px;
+}
+.stick .menu-toggle + .navbar-collapse {
+        margin-top: 50px;
+}
+.header-area.stick.active .menu-toggle {
+    top: 4%;
+}
+.header-area.active .collapse.navbar-collapse {
+    display: block;
+}
+.header-area .nav.navbar-nav.navbar-right{
+    background-color: #444;
+    margin-top:-2px;
+}
+.header-area.stick .nav.navbar-nav.navbar-right{
+    background-color: #fff;
+    padding: 0;
+    margin-top:-2px;
+}
+.main-menu ul.navbar-nav li,.stick .main-menu ul.navbar-nav li  {
+    display:block;
+}
+.main-menu ul.navbar-nav li a,.stick .main-menu ul.navbar-nav li a {
+    padding: 10px 2px;
+}
+.header-area.active .menu-toggle {
+    top: 9%;
+}
+.main-menu ul.navbar-nav li.dropdown.open ul.sub-menu.dropdown-menu{
+    background: transparent none repeat scroll 0 0 !important;
+    border: medium none;
+    box-shadow: none;
+    display: block !important;
+    opacity: 1;
+    position: initial !important;
+    visibility: visible;
+    width: 100% !important;
+    transition: 0.4s;
+}
+.main-menu ul.navbar-nav li.dropdown.open ul.sub-menu.dropdown-menu li {
+    border-bottom: 1px solid #ccc;
+}
+.main-menu ul.navbar-nav li.dropdown.open ul.sub-menu.dropdown-menu li a {
+    color: #fff;
+}
+.stick .main-menu ul.navbar-nav li.dropdown.open ul.sub-menu.dropdown-menu li a {
+    color:#444;
+}
+.main-menu ul.nav li a.pages::after {
+    bottom: 22px;
+    content: "";
+    font-family: fontawesome;
+    position: absolute;
+    right: 0;
+    font-size: 20px;
+    top: 8px;
+}
+.top-content .slide-content {
+    margin-top: 120px;
+    text-align: center;
+}
+.slider-area-2 .top-content .slide-content {
+    margin-top: 0px;
+    text-align: center;
+}
+.slider-area-2 .slider-img {
+    margin-top: 30px;
+}
+.slide-title {
+    font-size: 22px;
+    line-height: 28px;
+}
+.slide-btn {
+    margin: 20px 4px 0px 0;
+    padding: 9px 6px;
+    width: 128px;
+    font-size: 12px;
+}
+.slider-area-2 .slide-btn {
+    margin: 20px 4px 20px 0;
+}
+.feature-details {
+    width: 100%;
+    float: none;
+}
+.feature-1 .feature-images {
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+.feature-2 .feature-images {
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.subs-form {
+    padding: 0px;
+}
+.subs-form input#name{
+    width: 50%;
+}
+.home-3 input#name {
+    margin-left: -37px;
+}
+.subs-form button#submit {
+    width: 100%;
+    border-radius: 30px;
+    margin: 20px 0px;
+}
+.fun_text {
+    margin-bottom: 30px;
+}
+.table-list {
+    margin-bottom: 30px;
+}
+.single-brand-item {
+    float: none;
+    width: 100%;
+}
+.footer-content {
+    margin-bottom: 50px;
+}
+.header-area li.sign-menu {
+    padding: 10px 15px !important;
+}
+.header-area.stick li.sign-menu {
+    padding: 10px 15px !important;
+}
+.login-form {
+    padding: 15px;
+}
+.sign-icon ul li {
+    margin: 0px 0px;
+}
+.sign-icon ul li a {
+    padding: 5px 10px;
+}
+.dark-color.header-area .nav.navbar-nav.navbar-right {
+    background: rgba(0,0,0,0.90);
+    margin-top: -2px;
+}
+.dark-color.header-area.stick .nav.navbar-nav.navbar-right {
+    background: rgba(0,0,0,0.90);
+    margin-top: -2px;
+}
+.dark-color.stick .main-menu ul.navbar-nav li.dropdown.open ul.sub-menu.dropdown-menu li a {
+    color: #fff;
+}
+.dark-color.stick .main-menu ul.navbar-nav li.dropdown.open ul.sub-menu.dropdown-menu li,
+.dark-color .main-menu ul.navbar-nav li.dropdown.open ul.sub-menu.dropdown-menu li{
+    border-bottom: 1px solid #333;
+}
+.stick .navbar-default .navbar-toggle {
+    padding: 16px 0;
+}
+.dark-color.stick .navbar-default .navbar-toggle .icon-bar {
+    background: #fff;
+}
+.section-headline h2 {
+    font-size: 28px;
+}
+.section-2 > h3 {
+    font-size: 22px;
+}
+.sine-text h4{
+  font-size: 20px;
+}
+.faq-details h4.check-title {
+    font-size: 16px;
+    line-height: 24px;
+}
+.about-well img {
+    margin-bottom: 30px;
+}
+.blog-content a h4.sec-head {
+    font-size: 20px;
+}
+.page-head-blog {
+    margin-top: 40px;
+}
+.header-area li.sign-menu a.s-menu,
+.header-area.stick li.sign-menu a.s-menu {
+    padding: 0px !important;
+    border: none;
+    border-radius: 30px;
+}
+.sine-text{
+    margin-bottom: 40px;
+}
+.testimonial-carousel.owl-carousel.owl-theme .owl-controls .owl-dots {
+    margin-left: -40px;
+}
+.testimonial-carousel.item-indicator {
+    padding: 0px 0px 50px;
+}
+.single-icon p {
+    font-size: 15px;
+    line-height: 24px;
+}
+li.threaded-comments {
+    margin-left: 0px;
+}
+.comments-content-wrap {
+    margin: 0 0 15px 60px;
+}
+.home-page-8 .slide-title {
+    font-size: 26px;
+    line-height: 34px;
+} 
+.home-page-8 .slide-btn {
+    width: 128px;
+    font-size: 11px;
+    margin-bottom: 30px;
+}
+.header-area-8 .navbar-default .navbar-toggle .icon-bar{
+   background:#444;
+}
+.header-area.header-area-8 .nav.navbar-nav.navbar-right {
+    background-color: #fff;
+    margin-top: -2px;
+} 
+.header-area.header-area-8 li.sign-menu a.s-menu {
+    background: #fff;
+    color: #ef435a;
+    border: none;
+    border-radius: 5px;
+}    
+.feature-area-8.feature-1 .feature-images {
+    margin-top: 0px;
+    margin-bottom: 30px;
+}    
+.subscribe-area-8 .subs-form button#submit {
+    width: 100%;
+    border-radius: 30px;
+    margin: 20px 0px;
+}    
+    
+    
+    
+    
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+#single-product ul.nav.nav-tabs {
+    padding: 3% 28% 5% 27%;
+}
+#single-product.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev {
+    left: 18%;
+}
+#single-product.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-next {
+    right: 18%;
+}
+.gallery-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev {
+    right: 14%;
+}
+.menu-toggle {
+    top: 34%;
+}
+.section-headline h2 {
+    font-size: 36px;
+}
+.features-tab .nav-tabs li {
+    display: inline-block;
+}
+.product-item.owl-carousel.owl-theme .owl-controls .owl-dots {
+    margin-left: -13%;
+}
+.down-text > h2 {
+    font-size: 32px;
+    line-height: 40px;
+}
+.slider-img {
+    display: block;
+    margin-top: 70px;
+    text-align: center;
+}
+.slider-img > img {
+    max-width: 350px;
+}
+
+    
+}
+ 
